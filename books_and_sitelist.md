@@ -1,13 +1,33 @@
 # ビイトコインの情報源まとめ
 
+## 取引所
+
+[bitFlyer](https://bitflyer.com/ja-jp/)
+
+[bitbank](https://bitbank.cc/)
+
+[GMOコイン](https://coin.z.com/jp/)
+
+[DMM Bitcoin](https://bitcoin.dmm.com/)
+
+[Binance](https://www.binance.com/en)
+
+
 ## 仮想通貨情報サイト
 
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Bitcoin日本語情報サイト](https://jpbitcoin.com/)
+
+[CoinPost](https://coinpost.jp/)
+
+[BTCN](https://btcnews.jp/)
+
+[仮想通貨ちゃんねる](https://vc-ch.com/)
+
+[みんなの仮想通貨](https://cc.minkabu.jp/)
+
+[CCM](http://cryptocurrencymagazine.com/)
+
+[コインテレグラフジャパン](https://jp.cointelegraph.com/)
 
 
 ## 仮想通貨とブロックチェーン関連書籍
